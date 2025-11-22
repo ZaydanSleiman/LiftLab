@@ -24,3 +24,6 @@ After, open CMD go to your file destination"cd (your destination)" and run the p
 
 ### About Page
 ![Contact Page](screenshots/About.png)
+
+## Github Pages
+[https://ZaydanSleiman.github.io/LiftLab](https://ZaydanSleiman.github.io/LiftLab)
