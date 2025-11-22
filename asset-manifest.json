@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/LiftLab/static/css/main.a3105ee6.css",
+    "main.js": "/LiftLab/static/js/main.1ed7abdd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/LiftLab/static/js/787.28cb0dcd.chunk.js",
+    "static/media/LegExtension.gif": "/LiftLab/static/media/LegExtension.ef77fce8dd6b7e298af4.gif",
+    "static/media/HammerCurll.gif": "/LiftLab/static/media/HammerCurll.04a9891ea2557c542039.gif",
+    "static/media/CableRow.gif": "/LiftLab/static/media/CableRow.2893ab8d9b8d69e6eda2.gif",
+    "static/media/PushUp.gif": "/LiftLab/static/media/PushUp.d8374063923971a81a9c.gif",
+    "static/media/LegPress.gif": "/LiftLab/static/media/LegPress.3f368628cbece6a8bfe4.gif",
+    "static/media/PullUps.gif": "/LiftLab/static/media/PullUps.5a7f3d6b32245759c063.gif",
+    "static/media/OverheadTricep.gif": "/LiftLab/static/media/OverheadTricep.d985e90701b93b8fd12d.gif",
+    "static/media/PushDowns.gif": "/LiftLab/static/media/PushDowns.2d0af6fed1bf4f2c7cd0.gif",
+    "static/media/DumbbellCurl.gif": "/LiftLab/static/media/DumbbellCurl.80afe1a7b096a6a44cb0.gif",
+    "static/media/logo.png": "/LiftLab/static/media/logo.ae5b8a17c03bae303030.png",
+    "static/media/benchPress.gif": "/LiftLab/static/media/benchPress.3eb5025cd89e25048091.gif",
+    "static/media/biceps.png": "/LiftLab/static/media/biceps.f824450e2bd34c434721.png",
+    "static/media/legs.png": "/LiftLab/static/media/legs.c9e397ec03edd4aff007.png",
+    "static/media/chest.png": "/LiftLab/static/media/chest.fc454c4fdf7223f3fb6a.png",
+    "static/media/triceps.png": "/LiftLab/static/media/triceps.a2453a5ac71178d2831d.png",
+    "static/media/back.png": "/LiftLab/static/media/back.a090bdcbe2607b0d4c76.png",
+    "index.html": "/LiftLab/index.html",
+    "main.a3105ee6.css.map": "/LiftLab/static/css/main.a3105ee6.css.map",
+    "main.1ed7abdd.js.map": "/LiftLab/static/js/main.1ed7abdd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/LiftLab/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3105ee6.css",
+    "static/js/main.1ed7abdd.js"
+  ]
+}
