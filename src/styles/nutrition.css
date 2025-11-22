@@ -1,0 +1,46 @@
+.nutrition-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+
+.nutrition-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 100%;
+  max-width: 400px;
+}
+
+.nutrition-form input,
+.nutrition-form select {
+  padding: 0.75rem;
+  font-size: 1rem;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  transition: border-color 0.3s ease;
+}
+
+.nutrition-form input:focus,
+.nutrition-form select:focus {
+  border-color: #ff3c00;
+  outline: none;
+}
+
+.button {
+  background-color: #ff3c00;
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.button:hover {
+  background-color: #e63600;
+  transform: scale(1.05);
+}
